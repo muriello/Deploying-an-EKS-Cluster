@@ -1,6 +1,6 @@
 # Deploying and Scaling an Amazon EKS Cluster
 
-In this lab, you'll learn how to deploy an Amazon EKS cluster, deploy a sample application, and scale the cluster using the Kubernetes Horizontal Pod Autoscaler (HPA).
+In this lab, we will learn how to deploy an Amazon EKS cluster, deploy a sample application, and scale the cluster using the Kubernetes Horizontal Pod Autoscaler (HPA).
 
 Step 1: Installing the required tools
 
